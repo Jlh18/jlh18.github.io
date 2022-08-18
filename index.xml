@@ -21,7 +21,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jlh18.github.io/lean/</guid>
-      <description>Lean My masters project is to work towards putting the model theoretic result Ax-Grothendieck in lean. My repository for this can be found here.</description>
+      <description>Ax-Grothendieck in Lean My masters project was formalizing the model theoretic proof of
+Ax-Grothendieck in lean. My repository for the lean code can be found here and my paper and presentation on the subject can both be found here.</description>
     </item>
     
     <item>
